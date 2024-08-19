@@ -1,7 +1,7 @@
 
 # Jogo da Memória
 
-![Jogo da Memória](assets/tabuleiro-jogo-da-memoria/assets/img/imagem-jogo-tabuleiro.png)
+![Jogo da Memória]
 
 ## Descrição
 
